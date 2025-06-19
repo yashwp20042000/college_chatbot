@@ -1,8 +1,6 @@
 
 # College ChatBot 🎓🤖
 
-![Project Banner](assets/banner.png) *(optional)*
-
 A full-stack AI-powered chatbot designed to help college students with academic queries, schedule management, and quick calculations.
 
 ## 🚀 Features
